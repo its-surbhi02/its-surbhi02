@@ -39,14 +39,16 @@
 
 ### 📊 GitHub Stats
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=its-surbhi02&theme=aura_dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-surbhi02&theme=aura_dark)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-surbhi02&theme=aura_dark)
+<table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-surbhi02&theme=aura_dark" />
+    </td>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-surbhi02&theme=aura_dark" />
+    </td>
+  </tr>
+</table>
 
 
 ---

@@ -4,9 +4,9 @@
     <td align="right">
       <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
     </td>
+    <td><h2 align="center">Hi 👋, I'm Kumari Surbhi</h2></td>
   </tr>
 </table>
-<h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
 <p align="center">🚀 A passionate web developer & tech enthusiast</p>
 
 ---

@@ -2,12 +2,11 @@
 <h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
 <p align="center">🚀 A passionate web developer & tech enthusiast</p>
 
-<!-- Coding GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Girl Coding GIF" />
-</p>
+<!-- Flex container for About Me + GIF -->
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
----
+<!-- About Me Section -->
+<div style="flex: 1; min-width: 250px; padding-right: 20px;">
 
 ### 👩‍💻 About Me
 
@@ -16,6 +15,15 @@
 - 🌱 I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills  
 - 💡 Fun fact: I enjoy turning coffee ☕ into code 💻  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
+
+</div>
+
+<!-- GIF Section -->
+<div style="flex: 1; min-width: 250px;">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Girl Coding GIF" />
+</div>
+
+</div>
 
 ---
 
@@ -62,4 +70,3 @@
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-

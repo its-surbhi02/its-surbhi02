@@ -1,44 +1,65 @@
-<h1 align="center">Hi 👋, I'm Kumari Surbhi</h1>
-<h3 align="center">A passionate Full Stack Developer & DSA Enthusiast</h3>
+<!-- Profile Header -->
+<h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
+<p align="center">🚀 A passionate web developer & tech enthusiast</p>
 
+<!-- Coding GIF -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Girl Coding GIF" />
 </p>
-
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
-
-
-- 🔭 I’m currently working on **Web Development Projects and DSA**
-
-- 🌱 I’m currently learning **React.js, Node.js and System Design**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
-
-- 💬 Ask me about **Java, DSA, MERN Stack, Python**
-
 
 ---
 
-### 🛠️ Languages & Tools:
+### 👩‍💻 About Me
 
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+- 🎓 I'm currently a student and passionate about web & mobile app development  
+- 💻 I love working on **MERN stack**, and I'm exploring **.NET** development too  
+- 🌱 I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills  
+- 💡 Fun fact: I enjoy turning coffee ☕ into code 💻  
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
+
+---
+
+### 🧠 Tech Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![C#](https://img.shields.io/badge/-CSharp-239120?style=for-the-badge&logo=csharp&logoColor=fff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=fff)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=fff)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=its-surbhi02&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=its-surbhi02&theme=radical" />
-</p>
+<!-- Profile Summary -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-surbhi02&theme=aura_dark)
+
+<!-- Donut Chart -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=its-surbhi02&theme=aura_dark)
+
+<!-- Most Commit Language -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-surbhi02&theme=aura_dark)
+
+<!-- Stats -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-surbhi02&theme=aura_dark)
+
+<!-- Productive Time -->
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-surbhi02&theme=aura_dark&utcOffset=5.5)
 
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-surbhi02&theme=aura_dark)
+
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/its-surbhi02">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kumarisurbhi.ctps@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+

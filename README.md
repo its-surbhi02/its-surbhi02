@@ -5,7 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/bTudLdN6nF4AAAAC/girl-coding.gif" />
+
 
 - 🔭 I’m currently working on **Web Development Projects and DSA**
 
@@ -15,7 +16,6 @@
 
 - 💬 Ask me about **Java, DSA, MERN Stack, Python**
 
-- 📫 How to reach me **kumarisurbhi.official@gmail.com**
 
 ---
 
@@ -40,11 +40,4 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=its-surbhi02&theme=radical" />
 </p>
 
----
-
-### ✨ Quote to Remember
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
-
----
 

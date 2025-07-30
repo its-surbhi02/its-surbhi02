@@ -2,11 +2,12 @@
 <h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
 <p align="center">🚀 A passionate web developer & tech enthusiast</p>
 
-<!-- Flex container for About Me + GIF -->
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
+---
 
-<!-- About Me Section -->
-<div style="flex: 1; min-width: 250px; padding-right: 20px;">
+<!-- About Me + GIF Side by Side -->
+<table>
+  <tr>
+    <td>
 
 ### 👩‍💻 About Me
 
@@ -16,14 +17,12 @@
 - 💡 Fun fact: I enjoy turning coffee ☕ into code 💻  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
 
-</div>
-
-<!-- GIF Section -->
-<div style="flex: 1; min-width: 250px;">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" alt="Girl Coding GIF" />
-</div>
-
-</div>
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Girl Coding GIF" />
+    </td>
+  </tr>
+</table>
 
 ---
 

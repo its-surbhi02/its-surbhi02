@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
 </p>
 
-<img align="right" alt="Coding Girl" width="400" src="https://media.tenor.com/bTudLdN6nF4AAAAC/girl-coding.gif" />
+<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
 
 
 - 🔭 I’m currently working on **Web Development Projects and DSA**

@@ -40,4 +40,5 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=its-surbhi02&theme=radical" />
 </p>
 
-
+---
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=its-surbhi02&theme=aura_dark)

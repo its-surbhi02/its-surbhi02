@@ -1,13 +1,11 @@
-<table width="100%">
-  <tr>
-    <td></td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
-    </td>
-  </tr>
-</table>
-<h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
+<h1 align="center">Hi 👋, I'm Kumari Surbhi</h1>
+<!-- <h3 align="center">A passionate Full Stack Developer & DSA Enthusiast</h3> -->
 <p align="center">🚀 A passionate web developer & tech enthusiast</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />
+</p>
+
 
 ---
 <table>

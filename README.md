@@ -1,10 +1,8 @@
-<!-- Profile Header -->
+
 <h2 align="center">Hi 👋, I'm Kumari Surbhi</h2>
 <p align="center">🚀 A passionate web developer & tech enthusiast</p>
 
 ---
-
-<!-- About Me + GIF Side by Side -->
 <table>
   <tr>
     <td>
@@ -12,9 +10,8 @@
 ### 👩‍💻 About Me
 
 - 🎓 I'm currently a student and passionate about web & mobile app development  
-- 💻 I love working on **MERN stack**, and I'm exploring **.NET** development too  
-- 🌱 I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills  
-- 💡 Fun fact: I enjoy turning coffee ☕ into code 💻  
+- 💻 I love working on **MERN stack**, and I'm exploring **Android** development too  
+- 🌱 I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills    
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
 
 </td>
@@ -42,20 +39,15 @@
 
 ### 📊 GitHub Stats
 
-<!-- Profile Summary -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=its-surbhi02&theme=aura_dark)
 
-<!-- Donut Chart -->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/languages-details?username=its-surbhi02&theme=aura_dark)
 
-<!-- Most Commit Language -->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=its-surbhi02&theme=aura_dark)
 
-<!-- Stats -->
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=its-surbhi02&theme=aura_dark)
 
-<!-- Productive Time -->
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=its-surbhi02&theme=aura_dark&utcOffset=5.5)
 
 ---
 

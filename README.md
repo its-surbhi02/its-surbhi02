@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kumari Surbhi</h1>
+<h1 align="center">Hi, I'm Kumari Surbhi</h1>
 <!-- <h3 align="center">A passionate Full Stack Developer & DSA Enthusiast</h3> -->
-<p align="center">🚀 I’m Kumari Surbhi, a passionate React Developer and problem solver with a solid grip on Data Structures & Algorithms using Java and C++. I specialize in building dynamic front-end experiences with JavaScript & React.js, and love solving logical challenges that improve real-world systems.</p>
+<p align="center"> I’m Kumari Surbhi, a passionate React Developer and problem solver with a solid grip on Data Structures & Algorithms using Java and C++. I specialize in building dynamic front-end experiences with JavaScript & React.js, and love solving logical challenges that improve real-world systems.</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=its-surbhi02&label=Profile%20views&color=0e75b6&style=flat" alt="its-surbhi02" />

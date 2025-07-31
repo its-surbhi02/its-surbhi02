@@ -14,10 +14,10 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 I'm currently a student and passionate about web & mobile app development  
-- 💻 I love working on **MERN stack**, and I'm exploring **Android** development too  
-- 🌱 I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills    
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
+-  I'm currently a student and passionate about web & mobile app development  
+-  I love working on **MERN stack**, and I'm exploring **Android** development too  
+-  I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills    
+-  Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
 
 </td>
     <td>
@@ -28,7 +28,7 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
@@ -42,7 +42,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <table>
   <tr>
@@ -58,7 +58,7 @@
 
 ---
 
-### 📫 Connect with Me
+###  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/its-surbhi02">

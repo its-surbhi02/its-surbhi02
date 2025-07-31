@@ -14,9 +14,8 @@
 
 ### 👩‍💻 About Me
 
--  I'm currently a student and passionate about web & mobile app development  
--  I love working on **MERN stack**, and I'm exploring **Android** development too  
--  I’m currently learning **Dart**, **Flutter**, and sharpening my **DSA** skills    
+-  I'm currently a student and passionate about web & mobile app development. 
+-  I love working on **MERN stack**, and I'm exploring **Android** development too.   
 -  Reach me on [LinkedIn](https://www.linkedin.com/in/its-surbhi02)
 
 </td>
